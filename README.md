@@ -58,7 +58,7 @@ Com base em todos os dados analisados, foi possível identificar a loja com pior
 ## 📂 Estrutura do Projeto
 
 📁 Alura_Store_Desafio/
-├── Alura_Store2.ipynb(1) # Notebook principal com todas as análises
+├── Alura_Store2(1).ipynb # Notebook principal com todas as análises
 ├── bases de dados/ # Pasta com arquivos CSV utilizados
 └── README.md
 
